@@ -10,4 +10,4 @@ I later took it upon myself to improve the space complexity of the algorithm by 
 Later the 1D array version was converted to C++
 
 Visual representations of boards are here: run the file in the Visual Representations folder with the queen.png file in the same directory
-Program displays each step of finding the solution and pauses when a soltion is found
+Program displays each step of finding the solution and pauses when a solution is found
